@@ -238,8 +238,8 @@ Public Class UserManager
         Return i
     End Function
 
-    Public Function GenearateSaltedPassword(ByVal user_ID As UInteger, password As String) As String
-        Return userDAO.GenearateSaltedPassword(user_ID, password)
+    Public Function GenerateSaltedPassword(ByVal user_ID As UInteger, password As String) As String
+        Return userDAO.GenerateSaltedPassword(user_ID, password)
 
 
 

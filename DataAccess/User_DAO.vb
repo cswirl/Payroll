@@ -9,12 +9,15 @@ Public Class User_DAO
     ''' Return the newly added User ID.
     Public Function add(ByVal user As Bridge.IUser) As UInteger
         Dim user_ID As UInteger
+        Dim hashed_pwd As String
         Try
             Dim cmd As New MySqlCommand("usp_User_add", conn)
             cmd.CommandType = CommandType.StoredProcedure
             'PARAMs
             Dim out_userID As MySqlParameter = cmd.Parameters.Add("out_user_ID", MySqlDbType.UInt32)
             out_userID.Direction = ParameterDirection.Output
+            Dim out_hashed_pwd As MySqlParameter = cmd.Parameters.Add("out_hashed_password", MySqlDbType.VarChar)
+            out_hashed_pwd.Direction = ParameterDirection.Output
 
             Dim userName As MySqlParameter = cmd.Parameters.Add("in_userName", MySqlDbType.VarChar)
             Dim userPassword As MySqlParameter = cmd.Parameters.Add("in_userPassword", MySqlDbType.VarChar)
@@ -31,7 +34,7 @@ Public Class User_DAO
             openConnection()
             Dim i As Integer = cmd.ExecuteNonQuery()
             user_ID = out_userID.Value
-
+            user.userPassword = out_hashed_pwd.Value
         Catch myex As MySqlException
             'Exceptions not neccessary to Log can be filtered in ExceptionLog_DAO, i.e. DUPICATE DATA ENTRY
             ExceptionLog_DAO.log(myex, myex.Number)
@@ -340,7 +343,7 @@ Public Class User_DAO
 
 
 
-    Public Function GenearateSaltedPassword(ByVal user_ID As UInteger, password As String) As String
+    Public Function GenerateSaltedPassword(ByVal user_ID As UInteger, password As String) As String
 
         Dim saltedPassword As String
         Try

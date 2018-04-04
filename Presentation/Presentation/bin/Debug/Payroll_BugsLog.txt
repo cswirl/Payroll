@@ -294,3 +294,53 @@
  - - - 
    5:21 PM
  > > > > Table 'payroll.tblbuglog' doesn't exist
+ 
+ 
+4/4/2018 6:28:49 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   6:28 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ 
+ 
+4/4/2018 6:40:32 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   6:40 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   6:40 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   6:40 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   6:41 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   6:41 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   6:41 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   6:41 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   6:41 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   6:41 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   6:41 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   6:41 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   6:43 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   6:43 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
