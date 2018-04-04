@@ -22,6 +22,7 @@ Partial Class Emp_QuickSearchUC
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        CType(Me._bindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Emp_QuickSearchUC
@@ -30,6 +31,7 @@ Partial Class Emp_QuickSearchUC
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.Name = "Emp_QuickSearchUC"
         Me.Size = New System.Drawing.Size(680, 60)
+        CType(Me._bindingSource, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub

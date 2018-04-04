@@ -98,7 +98,7 @@ Partial Class CodedDomainUC
         '
         Me.btnUpdate.BackColor = System.Drawing.SystemColors.ButtonHighlight
         Me.btnUpdate.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnUpdate.Location = New System.Drawing.Point(623, 20)
+        Me.btnUpdate.Location = New System.Drawing.Point(632, 20)
         Me.btnUpdate.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
         Me.btnUpdate.Name = "btnUpdate"
         Me.btnUpdate.Size = New System.Drawing.Size(149, 25)
@@ -110,7 +110,7 @@ Partial Class CodedDomainUC
         '
         Me.btnDelete.BackColor = System.Drawing.SystemColors.ButtonHighlight
         Me.btnDelete.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnDelete.Location = New System.Drawing.Point(453, 20)
+        Me.btnDelete.Location = New System.Drawing.Point(477, 20)
         Me.btnDelete.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
         Me.btnDelete.Name = "btnDelete"
         Me.btnDelete.Size = New System.Drawing.Size(149, 25)

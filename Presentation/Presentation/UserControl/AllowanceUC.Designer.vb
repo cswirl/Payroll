@@ -140,7 +140,7 @@ Partial Class AllowanceUC
         Me.btnDelete.BackColor = System.Drawing.SystemColors.ButtonHighlight
         Me.btnDelete.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnDelete.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.btnDelete.Location = New System.Drawing.Point(568, 21)
+        Me.btnDelete.Location = New System.Drawing.Point(584, 19)
         Me.btnDelete.Name = "btnDelete"
         Me.btnDelete.Size = New System.Drawing.Size(102, 25)
         Me.btnDelete.TabIndex = 8
@@ -152,7 +152,7 @@ Partial Class AllowanceUC
         Me.btnAdd.BackColor = System.Drawing.SystemColors.ButtonHighlight
         Me.btnAdd.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnAdd.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.btnAdd.Location = New System.Drawing.Point(366, 21)
+        Me.btnAdd.Location = New System.Drawing.Point(366, 19)
         Me.btnAdd.Name = "btnAdd"
         Me.btnAdd.Size = New System.Drawing.Size(102, 25)
         Me.btnAdd.TabIndex = 8

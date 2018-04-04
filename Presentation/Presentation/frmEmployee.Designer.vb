@@ -242,7 +242,7 @@ Partial Class frmEmployee
         'lblCompanyName
         '
         Me.lblCompanyName.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.lblCompanyName.AutoEllipsis = True
         Me.lblCompanyName.AutoSize = True
         Me.lblCompanyName.Font = New System.Drawing.Font("Tahoma", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -275,7 +275,7 @@ Partial Class frmEmployee
         'lblTitle
         '
         Me.lblTitle.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.lblTitle.AutoSize = True
         Me.lblTitle.Font = New System.Drawing.Font("Tahoma", 12.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblTitle.ForeColor = System.Drawing.Color.White
@@ -305,10 +305,10 @@ Partial Class frmEmployee
         Me.BindingNavigatorMain.CountItem = Me.BindingNavigatorCountItem
         Me.BindingNavigatorMain.DeleteItem = Nothing
         Me.BindingNavigatorMain.Dock = System.Windows.Forms.DockStyle.Bottom
-        Me.BindingNavigatorMain.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BindingNavigatorMain.Font = New System.Drawing.Font("Tahoma", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BindingNavigatorMain.GripStyle = System.Windows.Forms.ToolStripGripStyle.Hidden
         Me.BindingNavigatorMain.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.BindingNavigatorMoveFirstItem, Me.BindingNavigatorMovePreviousItem, Me.BindingNavigatorSeparator, Me.BindingNavigatorPositionItem, Me.BindingNavigatorCountItem, Me.BindingNavigatorSeparator1, Me.BindingNavigatorMoveNextItem, Me.BindingNavigatorMoveLastItem, Me.BindingNavigatorSeparator2, Me.tsbtnAdd, Me.tsbtnEdit})
-        Me.BindingNavigatorMain.Location = New System.Drawing.Point(166, 619)
+        Me.BindingNavigatorMain.Location = New System.Drawing.Point(166, 601)
         Me.BindingNavigatorMain.MoveFirstItem = Me.BindingNavigatorMoveFirstItem
         Me.BindingNavigatorMain.MoveLastItem = Me.BindingNavigatorMoveLastItem
         Me.BindingNavigatorMain.MoveNextItem = Me.BindingNavigatorMoveNextItem
@@ -316,15 +316,15 @@ Partial Class frmEmployee
         Me.BindingNavigatorMain.Name = "BindingNavigatorMain"
         Me.BindingNavigatorMain.Padding = New System.Windows.Forms.Padding(15, 0, 1, 0)
         Me.BindingNavigatorMain.PositionItem = Me.BindingNavigatorPositionItem
-        Me.BindingNavigatorMain.Size = New System.Drawing.Size(834, 25)
+        Me.BindingNavigatorMain.Size = New System.Drawing.Size(834, 43)
         Me.BindingNavigatorMain.TabIndex = 0
         Me.BindingNavigatorMain.Text = "BindingNavigator1"
         '
         'BindingNavigatorCountItem
         '
-        Me.BindingNavigatorCountItem.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BindingNavigatorCountItem.Font = New System.Drawing.Font("Tahoma", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BindingNavigatorCountItem.Name = "BindingNavigatorCountItem"
-        Me.BindingNavigatorCountItem.Size = New System.Drawing.Size(42, 22)
+        Me.BindingNavigatorCountItem.Size = New System.Drawing.Size(48, 40)
         Me.BindingNavigatorCountItem.Text = "of {0}"
         Me.BindingNavigatorCountItem.ToolTipText = "Total number of items"
         '
@@ -334,7 +334,7 @@ Partial Class frmEmployee
         Me.BindingNavigatorMoveFirstItem.Image = CType(resources.GetObject("BindingNavigatorMoveFirstItem.Image"), System.Drawing.Image)
         Me.BindingNavigatorMoveFirstItem.Name = "BindingNavigatorMoveFirstItem"
         Me.BindingNavigatorMoveFirstItem.RightToLeftAutoMirrorImage = True
-        Me.BindingNavigatorMoveFirstItem.Size = New System.Drawing.Size(23, 22)
+        Me.BindingNavigatorMoveFirstItem.Size = New System.Drawing.Size(23, 40)
         Me.BindingNavigatorMoveFirstItem.Text = "Move first"
         '
         'BindingNavigatorMovePreviousItem
@@ -343,28 +343,28 @@ Partial Class frmEmployee
         Me.BindingNavigatorMovePreviousItem.Image = CType(resources.GetObject("BindingNavigatorMovePreviousItem.Image"), System.Drawing.Image)
         Me.BindingNavigatorMovePreviousItem.Name = "BindingNavigatorMovePreviousItem"
         Me.BindingNavigatorMovePreviousItem.RightToLeftAutoMirrorImage = True
-        Me.BindingNavigatorMovePreviousItem.Size = New System.Drawing.Size(23, 22)
+        Me.BindingNavigatorMovePreviousItem.Size = New System.Drawing.Size(23, 40)
         Me.BindingNavigatorMovePreviousItem.Text = "Move previous"
         '
         'BindingNavigatorSeparator
         '
         Me.BindingNavigatorSeparator.Name = "BindingNavigatorSeparator"
-        Me.BindingNavigatorSeparator.Size = New System.Drawing.Size(6, 25)
+        Me.BindingNavigatorSeparator.Size = New System.Drawing.Size(6, 43)
         '
         'BindingNavigatorPositionItem
         '
         Me.BindingNavigatorPositionItem.AccessibleName = "Position"
         Me.BindingNavigatorPositionItem.AutoSize = False
-        Me.BindingNavigatorPositionItem.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BindingNavigatorPositionItem.Font = New System.Drawing.Font("Tahoma", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BindingNavigatorPositionItem.Name = "BindingNavigatorPositionItem"
-        Me.BindingNavigatorPositionItem.Size = New System.Drawing.Size(50, 23)
+        Me.BindingNavigatorPositionItem.Size = New System.Drawing.Size(50, 26)
         Me.BindingNavigatorPositionItem.Text = "0"
         Me.BindingNavigatorPositionItem.ToolTipText = "Current position"
         '
         'BindingNavigatorSeparator1
         '
         Me.BindingNavigatorSeparator1.Name = "BindingNavigatorSeparator1"
-        Me.BindingNavigatorSeparator1.Size = New System.Drawing.Size(6, 25)
+        Me.BindingNavigatorSeparator1.Size = New System.Drawing.Size(6, 43)
         '
         'BindingNavigatorMoveNextItem
         '
@@ -372,7 +372,7 @@ Partial Class frmEmployee
         Me.BindingNavigatorMoveNextItem.Image = CType(resources.GetObject("BindingNavigatorMoveNextItem.Image"), System.Drawing.Image)
         Me.BindingNavigatorMoveNextItem.Name = "BindingNavigatorMoveNextItem"
         Me.BindingNavigatorMoveNextItem.RightToLeftAutoMirrorImage = True
-        Me.BindingNavigatorMoveNextItem.Size = New System.Drawing.Size(23, 22)
+        Me.BindingNavigatorMoveNextItem.Size = New System.Drawing.Size(23, 40)
         Me.BindingNavigatorMoveNextItem.Text = "Move next"
         '
         'BindingNavigatorMoveLastItem
@@ -381,37 +381,40 @@ Partial Class frmEmployee
         Me.BindingNavigatorMoveLastItem.Image = CType(resources.GetObject("BindingNavigatorMoveLastItem.Image"), System.Drawing.Image)
         Me.BindingNavigatorMoveLastItem.Name = "BindingNavigatorMoveLastItem"
         Me.BindingNavigatorMoveLastItem.RightToLeftAutoMirrorImage = True
-        Me.BindingNavigatorMoveLastItem.Size = New System.Drawing.Size(23, 22)
+        Me.BindingNavigatorMoveLastItem.Size = New System.Drawing.Size(23, 40)
         Me.BindingNavigatorMoveLastItem.Text = "Move last"
         '
         'BindingNavigatorSeparator2
         '
         Me.BindingNavigatorSeparator2.Name = "BindingNavigatorSeparator2"
-        Me.BindingNavigatorSeparator2.Size = New System.Drawing.Size(6, 25)
+        Me.BindingNavigatorSeparator2.Size = New System.Drawing.Size(6, 43)
         '
         'tsbtnAdd
         '
-        Me.tsbtnAdd.BackColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.tsbtnAdd.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.tsbtnAdd.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom
         Me.tsbtnAdd.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.tsbtnAdd.Image = Global.Presentation.My.Resources.Resources.plus1
+        Me.tsbtnAdd.Image = CType(resources.GetObject("tsbtnAdd.Image"), System.Drawing.Image)
         Me.tsbtnAdd.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.tsbtnAdd.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbtnAdd.Name = "tsbtnAdd"
-        Me.tsbtnAdd.Size = New System.Drawing.Size(56, 22)
+        Me.tsbtnAdd.Padding = New System.Windows.Forms.Padding(10)
+        Me.tsbtnAdd.Size = New System.Drawing.Size(76, 40)
         Me.tsbtnAdd.Text = "&ADD"
         Me.tsbtnAdd.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage
         '
         'tsbtnEdit
         '
-        Me.tsbtnEdit.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.tsbtnEdit.BackColor = System.Drawing.Color.Wheat
         Me.tsbtnEdit.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom
         Me.tsbtnEdit.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.tsbtnEdit.Image = Global.Presentation.My.Resources.Resources.edit_logo1
+        Me.tsbtnEdit.Image = CType(resources.GetObject("tsbtnEdit.Image"), System.Drawing.Image)
         Me.tsbtnEdit.ImageTransparentColor = System.Drawing.Color.Transparent
         Me.tsbtnEdit.Name = "tsbtnEdit"
-        Me.tsbtnEdit.Size = New System.Drawing.Size(56, 22)
+        Me.tsbtnEdit.Padding = New System.Windows.Forms.Padding(10)
+        Me.tsbtnEdit.Size = New System.Drawing.Size(76, 40)
         Me.tsbtnEdit.Text = "ED&IT"
+        Me.tsbtnEdit.TextAlign = System.Drawing.ContentAlignment.MiddleRight
         Me.tsbtnEdit.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage
         '
         'TabControlMain
@@ -948,10 +951,10 @@ Partial Class frmEmployee
         '
         Me.TabPageSalary.BackColor = System.Drawing.Color.Transparent
         Me.TabPageSalary.Controls.Add(Me.SplitContainer2)
-        Me.TabPageSalary.Location = New System.Drawing.Point(4, 25)
+        Me.TabPageSalary.Location = New System.Drawing.Point(4, 22)
         Me.TabPageSalary.Name = "TabPageSalary"
         Me.TabPageSalary.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPageSalary.Size = New System.Drawing.Size(826, 589)
+        Me.TabPageSalary.Size = New System.Drawing.Size(826, 592)
         Me.TabPageSalary.TabIndex = 1
         Me.TabPageSalary.Tag = "Salary and Other Information"
         Me.TabPageSalary.Text = "Salary & Others"
@@ -975,7 +978,7 @@ Partial Class frmEmployee
         Me.SplitContainer2.Panel2.Controls.Add(Me.GroupBox1)
         Me.SplitContainer2.Panel2.Controls.Add(Me.gbxDeductables)
         Me.SplitContainer2.Panel2.Controls.Add(Me.gbxSalaries)
-        Me.SplitContainer2.Size = New System.Drawing.Size(820, 583)
+        Me.SplitContainer2.Size = New System.Drawing.Size(820, 586)
         Me.SplitContainer2.SplitterDistance = 59
         Me.SplitContainer2.TabIndex = 0
         '
@@ -1264,10 +1267,10 @@ Partial Class frmEmployee
         'TabPageProject
         '
         Me.TabPageProject.Controls.Add(Me.SplitContainer4)
-        Me.TabPageProject.Location = New System.Drawing.Point(4, 25)
+        Me.TabPageProject.Location = New System.Drawing.Point(4, 22)
         Me.TabPageProject.Name = "TabPageProject"
         Me.TabPageProject.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPageProject.Size = New System.Drawing.Size(826, 589)
+        Me.TabPageProject.Size = New System.Drawing.Size(826, 592)
         Me.TabPageProject.TabIndex = 3
         Me.TabPageProject.Tag = "Employee Project"
         Me.TabPageProject.Text = "Project"
@@ -1289,7 +1292,7 @@ Partial Class frmEmployee
         '
         Me.SplitContainer4.Panel2.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.SplitContainer4.Panel2.Controls.Add(Me.EmpProjectUC1)
-        Me.SplitContainer4.Size = New System.Drawing.Size(820, 583)
+        Me.SplitContainer4.Size = New System.Drawing.Size(820, 586)
         Me.SplitContainer4.SplitterDistance = 59
         Me.SplitContainer4.TabIndex = 1
         '
@@ -1309,10 +1312,10 @@ Partial Class frmEmployee
         'TabPageMisc
         '
         Me.TabPageMisc.Controls.Add(Me.SplitContainer3)
-        Me.TabPageMisc.Location = New System.Drawing.Point(4, 25)
+        Me.TabPageMisc.Location = New System.Drawing.Point(4, 22)
         Me.TabPageMisc.Name = "TabPageMisc"
         Me.TabPageMisc.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPageMisc.Size = New System.Drawing.Size(826, 589)
+        Me.TabPageMisc.Size = New System.Drawing.Size(826, 592)
         Me.TabPageMisc.TabIndex = 2
         Me.TabPageMisc.Tag = "Miscellaneous"
         Me.TabPageMisc.Text = "Miscellaneous"
@@ -1334,7 +1337,7 @@ Partial Class frmEmployee
         '
         Me.SplitContainer3.Panel2.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.SplitContainer3.Panel2.Controls.Add(Me.TabCtrlMisc)
-        Me.SplitContainer3.Size = New System.Drawing.Size(820, 583)
+        Me.SplitContainer3.Size = New System.Drawing.Size(820, 586)
         Me.SplitContainer3.SplitterDistance = 59
         Me.SplitContainer3.TabIndex = 1
         '

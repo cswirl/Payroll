@@ -23,6 +23,7 @@ Partial Class EmpProjectUC
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(EmpProjectUC))
         Me.TabControlProject = New System.Windows.Forms.TabControl()
         Me.TabPageProject = New System.Windows.Forms.TabPage()
         Me.Panel1 = New System.Windows.Forms.Panel()
@@ -390,7 +391,6 @@ Partial Class EmpProjectUC
         'btnCancel
         '
         Me.btnCancel.BackColor = System.Drawing.SystemColors.ButtonHighlight
-        Me.btnCancel.Image = Global.Presentation.My.Resources.Resources.exit11
         Me.btnCancel.ImageAlign = System.Drawing.ContentAlignment.MiddleRight
         Me.btnCancel.Location = New System.Drawing.Point(473, 259)
         Me.btnCancel.Name = "btnCancel"
@@ -700,9 +700,9 @@ Partial Class EmpProjectUC
         '
         'tsbtnAdd
         '
-        Me.tsbtnAdd.BackColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.tsbtnAdd.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.tsbtnAdd.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom
-        Me.tsbtnAdd.Image = Global.Presentation.My.Resources.Resources.plus1
+        Me.tsbtnAdd.Image = CType(resources.GetObject("tsbtnAdd.Image"), System.Drawing.Image)
         Me.tsbtnAdd.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbtnAdd.Name = "tsbtnAdd"
         Me.tsbtnAdd.Size = New System.Drawing.Size(49, 22)
@@ -716,9 +716,9 @@ Partial Class EmpProjectUC
         '
         'tsbtnEdit
         '
-        Me.tsbtnEdit.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.tsbtnEdit.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.tsbtnEdit.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom
-        Me.tsbtnEdit.Image = Global.Presentation.My.Resources.Resources.edit_logo1
+        Me.tsbtnEdit.Image = CType(resources.GetObject("tsbtnEdit.Image"), System.Drawing.Image)
         Me.tsbtnEdit.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbtnEdit.Name = "tsbtnEdit"
         Me.tsbtnEdit.Size = New System.Drawing.Size(48, 22)
@@ -732,9 +732,9 @@ Partial Class EmpProjectUC
         '
         'tsbtnDelete
         '
-        Me.tsbtnDelete.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
+        Me.tsbtnDelete.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(128, Byte), Integer))
         Me.tsbtnDelete.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom
-        Me.tsbtnDelete.Image = Global.Presentation.My.Resources.Resources.Delete_icon2
+        Me.tsbtnDelete.Image = CType(resources.GetObject("tsbtnDelete.Image"), System.Drawing.Image)
         Me.tsbtnDelete.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbtnDelete.Name = "tsbtnDelete"
         Me.tsbtnDelete.Size = New System.Drawing.Size(63, 22)
@@ -774,14 +774,17 @@ Partial Class EmpProjectUC
         '
         'btnFlagProject
         '
-        Me.btnFlagProject.BackColor = System.Drawing.Color.Silver
+        Me.btnFlagProject.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
+        Me.btnFlagProject.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.btnFlagProject.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnFlagProject.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.btnFlagProject.Location = New System.Drawing.Point(311, 1)
+        Me.btnFlagProject.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btnFlagProject.Location = New System.Drawing.Point(311, 2)
         Me.btnFlagProject.Name = "btnFlagProject"
         Me.btnFlagProject.Size = New System.Drawing.Size(169, 23)
         Me.btnFlagProject.TabIndex = 89
         Me.btnFlagProject.Text = "Flag as Head"
+        Me.btnFlagProject.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.btnFlagProject.UseVisualStyleBackColor = False
         '
         'EmpProjectUC

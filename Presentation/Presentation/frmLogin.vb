@@ -34,7 +34,7 @@ Public Class frmLogIn
             loginManager.authenticate(tbUserName.Text, tbPassword.Text)
 
             If Not myOwner Is Nothing Then
-                myOwner.showHomeForm()
+                myOwner.showEmployeeForm()
             End If
             Me.Close()
 

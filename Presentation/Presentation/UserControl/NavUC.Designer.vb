@@ -80,6 +80,7 @@ Partial Class NavUC
         Me.tsbtnHome.Size = New System.Drawing.Size(132, 21)
         Me.tsbtnHome.Text = "HOME"
         Me.tsbtnHome.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.tsbtnHome.Visible = False
         '
         'ToolStripSeparator8
         '

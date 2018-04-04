@@ -22,6 +22,7 @@ Partial Class MenuUC
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(MenuUC))
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
         Me.tsmiLogout = New System.Windows.Forms.ToolStripMenuItem()
         Me.ConfigurationToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -68,20 +69,24 @@ Partial Class MenuUC
         'BackupToolStripMenuItem
         '
         Me.BackupToolStripMenuItem.Name = "BackupToolStripMenuItem"
-        Me.BackupToolStripMenuItem.Size = New System.Drawing.Size(133, 22)
+        Me.BackupToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.BackupToolStripMenuItem.Text = "Backup"
         '
         'RestoreToolStripMenuItem
         '
         Me.RestoreToolStripMenuItem.Name = "RestoreToolStripMenuItem"
-        Me.RestoreToolStripMenuItem.Size = New System.Drawing.Size(133, 22)
+        Me.RestoreToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.RestoreToolStripMenuItem.Text = "Restore"
         '
         'tsmiRefresh
         '
+        Me.tsmiRefresh.Image = CType(resources.GetObject("tsmiRefresh.Image"), System.Drawing.Image)
+        Me.tsmiRefresh.ImageAlign = System.Drawing.ContentAlignment.MiddleRight
         Me.tsmiRefresh.Name = "tsmiRefresh"
-        Me.tsmiRefresh.Size = New System.Drawing.Size(64, 20)
+        Me.tsmiRefresh.Size = New System.Drawing.Size(80, 20)
         Me.tsmiRefresh.Text = "Refresh"
+        Me.tsmiRefresh.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.tsmiRefresh.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage
         '
         'MenuUC
         '

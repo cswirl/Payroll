@@ -127,7 +127,7 @@ Partial Class OtherDeductionUC
         Me.btnDelete.BackColor = System.Drawing.SystemColors.ButtonHighlight
         Me.btnDelete.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnDelete.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.btnDelete.Location = New System.Drawing.Point(512, 19)
+        Me.btnDelete.Location = New System.Drawing.Point(584, 19)
         Me.btnDelete.Name = "btnDelete"
         Me.btnDelete.Size = New System.Drawing.Size(102, 25)
         Me.btnDelete.TabIndex = 8

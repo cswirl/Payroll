@@ -118,7 +118,7 @@ Partial Class frmConfiguration
         '
         Me.Label6.AutoSize = True
         Me.Label6.Font = New System.Drawing.Font("Tahoma", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.ForeColor = System.Drawing.SystemColors.ActiveCaption
+        Me.Label6.ForeColor = System.Drawing.SystemColors.MenuHighlight
         Me.Label6.Location = New System.Drawing.Point(48, 25)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(52, 17)
@@ -242,7 +242,7 @@ Partial Class frmConfiguration
         '
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Tahoma", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.ForeColor = System.Drawing.SystemColors.ActiveCaption
+        Me.Label5.ForeColor = System.Drawing.SystemColors.MenuHighlight
         Me.Label5.Location = New System.Drawing.Point(26, 136)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(74, 17)
@@ -253,7 +253,7 @@ Partial Class frmConfiguration
         '
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Tahoma", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.ForeColor = System.Drawing.SystemColors.ActiveCaption
+        Me.Label4.ForeColor = System.Drawing.SystemColors.MenuHighlight
         Me.Label4.Location = New System.Drawing.Point(25, 108)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(75, 17)
@@ -264,7 +264,7 @@ Partial Class frmConfiguration
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Tahoma", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.ForeColor = System.Drawing.SystemColors.ActiveCaption
+        Me.Label3.ForeColor = System.Drawing.SystemColors.MenuHighlight
         Me.Label3.Location = New System.Drawing.Point(22, 77)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(78, 17)
@@ -275,7 +275,7 @@ Partial Class frmConfiguration
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Tahoma", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.ForeColor = System.Drawing.SystemColors.ActiveCaption
+        Me.Label2.ForeColor = System.Drawing.SystemColors.MenuHighlight
         Me.Label2.Location = New System.Drawing.Point(57, 52)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(43, 17)
@@ -286,7 +286,7 @@ Partial Class frmConfiguration
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Tahoma", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.ForeColor = System.Drawing.SystemColors.ActiveCaption
+        Me.Label1.ForeColor = System.Drawing.SystemColors.MenuHighlight
         Me.Label1.Location = New System.Drawing.Point(43, 24)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(57, 17)

@@ -22,6 +22,7 @@ Partial Class QuickSearchUC
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(QuickSearchUC))
         Me.gbxQuickSearch = New System.Windows.Forms.GroupBox()
         Me.ToolStrip1 = New System.Windows.Forms.ToolStrip()
         Me.ToolStripSeparator2 = New System.Windows.Forms.ToolStripSeparator()
@@ -66,6 +67,7 @@ Partial Class QuickSearchUC
         'tscbxSearchBy
         '
         Me.tscbxSearchBy.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.tscbxSearchBy.FlatStyle = System.Windows.Forms.FlatStyle.System
         Me.tscbxSearchBy.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.tscbxSearchBy.Name = "tscbxSearchBy"
         Me.tscbxSearchBy.Size = New System.Drawing.Size(140, 34)
@@ -78,18 +80,22 @@ Partial Class QuickSearchUC
         'tstxtSearch
         '
         Me.tstxtSearch.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest
+        Me.tstxtSearch.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.tstxtSearch.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.tstxtSearch.Name = "tstxtSearch"
         Me.tstxtSearch.Size = New System.Drawing.Size(240, 34)
         '
         'tsBtnGo
         '
+        Me.tsBtnGo.BackColor = System.Drawing.Color.Transparent
+        Me.tsBtnGo.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image
         Me.tsBtnGo.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.tsBtnGo.Image = Global.Presentation.My.Resources.Resources._next
+        Me.tsBtnGo.Image = CType(resources.GetObject("tsBtnGo.Image"), System.Drawing.Image)
         Me.tsBtnGo.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsBtnGo.Name = "tsBtnGo"
-        Me.tsBtnGo.Size = New System.Drawing.Size(44, 31)
-        Me.tsBtnGo.Text = "Go"
+        Me.tsBtnGo.Padding = New System.Windows.Forms.Padding(15)
+        Me.tsBtnGo.Size = New System.Drawing.Size(50, 31)
+        Me.tsBtnGo.Text = "Search"
         Me.tsBtnGo.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage
         '
         'QuickSearchUC

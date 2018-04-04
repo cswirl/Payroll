@@ -172,3 +172,125 @@
  - - - 
    3:29 PM
  > > > > Table 'payroll.tblbuglog' doesn't exist
+ 
+ 
+4/4/2018 1:32:29 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   1:32 AM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ 
+ 
+4/4/2018 5:21:05 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   5:21 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   5:21 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   5:21 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   5:21 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   5:21 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   5:21 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   5:21 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   5:21 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist
+ - - - 
+   5:21 PM
+ > > > > Table 'payroll.tblbuglog' doesn't exist

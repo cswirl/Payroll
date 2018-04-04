@@ -53,7 +53,7 @@ Partial Class StatusStripUC
         Me.SplitContainer1.Panel2.Controls.Add(Me.Panel1)
         Me.SplitContainer1.Panel2.Padding = New System.Windows.Forms.Padding(0, 1, 0, 0)
         Me.SplitContainer1.Size = New System.Drawing.Size(758, 25)
-        Me.SplitContainer1.SplitterDistance = 488
+        Me.SplitContainer1.SplitterDistance = 491
         Me.SplitContainer1.SplitterWidth = 1
         Me.SplitContainer1.TabIndex = 0
         '
@@ -63,7 +63,7 @@ Partial Class StatusStripUC
         Me.StatusStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.tslblMessage})
         Me.StatusStrip1.Location = New System.Drawing.Point(0, 0)
         Me.StatusStrip1.Name = "StatusStrip1"
-        Me.StatusStrip1.Size = New System.Drawing.Size(488, 25)
+        Me.StatusStrip1.Size = New System.Drawing.Size(491, 25)
         Me.StatusStrip1.SizingGrip = False
         Me.StatusStrip1.TabIndex = 1
         Me.StatusStrip1.Text = "StatusStrip1"
@@ -83,8 +83,7 @@ Partial Class StatusStripUC
         Me.Panel1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.Panel1.Location = New System.Drawing.Point(0, 1)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Padding = New System.Windows.Forms.Padding(0, 2, 5, 0)
-        Me.Panel1.Size = New System.Drawing.Size(269, 24)
+        Me.Panel1.Size = New System.Drawing.Size(266, 24)
         Me.Panel1.TabIndex = 0
         '
         'lblClock
@@ -92,7 +91,7 @@ Partial Class StatusStripUC
         Me.lblClock.AutoSize = True
         Me.lblClock.Dock = System.Windows.Forms.DockStyle.Right
         Me.lblClock.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblClock.Location = New System.Drawing.Point(226, 2)
+        Me.lblClock.Location = New System.Drawing.Point(228, 0)
         Me.lblClock.Name = "lblClock"
         Me.lblClock.Size = New System.Drawing.Size(38, 16)
         Me.lblClock.TabIndex = 1
