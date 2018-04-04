@@ -1,0 +1,16 @@
+ 
+ 
+6/10/2011 5:15:22 PM
+ > > > > Unable to cast object of type 'MySql.Data.MySqlClient.MySqlParameter' to type 'System.IConvertible'.
+ 
+ 
+6/10/2011 5:22:03 PM
+ > > > > Unable to cast object of type 'MySql.Data.MySqlClient.MySqlParameter' to type 'System.IConvertible'.
+ 
+ 
+6/10/2011 5:31:28 PM
+ > > > > Unknown column 'errSource' in 'field list'
+ 
+ 
+6/10/2011 5:33:50 PM
+ > > > > Field 'ID' doesn't have a default value

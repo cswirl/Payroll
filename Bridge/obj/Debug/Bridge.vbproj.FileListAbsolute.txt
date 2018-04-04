@@ -1,0 +1,34 @@
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\BusinessAndDataBridge\bin\Debug\BusinessAndDataBridge.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\BusinessAndDataBridge\bin\Debug\BusinessAndDataBridge.pdb
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\BusinessAndDataBridge\obj\Debug\BusinessAndDataBridge.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\BusinessAndDataBridge\obj\Debug\BusinessAndDataBridge.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\BusinessAndDataBridge\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\BusinessAndDataBridge\bin\Debug\Bridge.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\BusinessAndDataBridge\bin\Debug\Bridge.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\BusinessAndDataBridge\obj\Debug\Bridge.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\BusinessAndDataBridge\obj\Debug\Bridge.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Bridge\bin\Debug\Bridge.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Bridge\bin\Debug\Bridge.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Bridge\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Bridge\obj\Debug\Bridge.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Bridge\obj\Debug\Bridge.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Bridge\bin\Debug\Bridge.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Bridge\bin\Debug\Bridge.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Bridge\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Bridge\obj\Debug\Bridge.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Bridge\obj\Debug\Bridge.pdb
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Bridge\bin\Debug\Bridge.exe
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Bridge\bin\Debug\Bridge.pdb
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Bridge\obj\Debug\Bridge.vbprojResolveAssemblyReference.cache
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Bridge\obj\Debug\Bridge.exe
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Bridge\obj\Debug\Bridge.pdb
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Bridge\bin\Debug\Bridge.exe
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Bridge\bin\Debug\Bridge.pdb
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Bridge\obj\Debug\Bridge.exe
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Bridge\obj\Debug\Bridge.pdb
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Bridge\bin\Debug\Bridge.exe.config
+J:\Software Projects\PayrollApp\Bridge\bin\Debug\Bridge.exe.config
+J:\Software Projects\PayrollApp\Bridge\bin\Debug\Bridge.exe
+J:\Software Projects\PayrollApp\Bridge\bin\Debug\Bridge.pdb
+J:\Software Projects\PayrollApp\Bridge\obj\Debug\Bridge.exe
+J:\Software Projects\PayrollApp\Bridge\obj\Debug\Bridge.pdb

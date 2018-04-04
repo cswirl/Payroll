@@ -1,0 +1,13 @@
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\IBusinessEntity\bin\Debug\BusinessAndDataBridge.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\IBusinessEntity\bin\Debug\BusinessAndDataBridge.pdb
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\IBusinessEntity\obj\Debug\BusinessAndDataBridge.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\IBusinessEntity\obj\Debug\BusinessAndDataBridge.pdb
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\BusinessAndDataBridge\bin\Debug\BusinessAndDataBridge.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\BusinessAndDataBridge\bin\Debug\BusinessAndDataBridge.pdb
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\BusinessAndDataBridge\obj\Debug\BusinessAndDataBridge.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\BusinessAndDataBridge\obj\Debug\BusinessAndDataBridge.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\BusinessAndDataBridge\bin\Debug\BusinessAndDataBridge.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\BusinessAndDataBridge\bin\Debug\BusinessAndDataBridge.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\BusinessAndDataBridge\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\BusinessAndDataBridge\obj\Debug\BusinessAndDataBridge.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\BusinessAndDataBridge\obj\Debug\BusinessAndDataBridge.pdb

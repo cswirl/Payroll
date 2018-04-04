@@ -1,0 +1,4 @@
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\IBusinessEntity\bin\Debug\IBusinessEntity.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\IBusinessEntity\bin\Debug\IBusinessEntity.pdb
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\IBusinessEntity\obj\Debug\IBusinessEntity.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\IBusinessEntity\obj\Debug\IBusinessEntity.pdb

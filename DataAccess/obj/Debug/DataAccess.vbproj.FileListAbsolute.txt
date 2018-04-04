@@ -1,0 +1,58 @@
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\DataAccess\bin\Debug\DataAccess.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\DataAccess\bin\Debug\DataAccess.pdb
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\DataAccess\bin\Debug\BusinessAndDataBridge.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\DataAccess\bin\Debug\CrossCutting.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\DataAccess\bin\Debug\CrossCutting.pdb
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\DataAccess\bin\Debug\BusinessAndDataBridge.pdb
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\DataAccess\obj\Debug\DataAccess.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\DataAccess\obj\Debug\DataAccess.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\DataAccess\bin\Debug\DataAccess.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\DataAccess\bin\Debug\DataAccess.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\DataAccess\bin\Debug\CrossCutting.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\DataAccess\bin\Debug\CrossCutting.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\DataAccess\obj\Debug\DataAccess.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\DataAccess\obj\Debug\DataAccess.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\DataAccess\bin\Debug\Bridge.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\DataAccess\bin\Debug\Bridge.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\DataAccess\bin\Debug\DataAccess.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\DataAccess\bin\Debug\DataAccess.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\DataAccess\bin\Debug\Bridge.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\DataAccess\bin\Debug\CrossCutting.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\DataAccess\bin\Debug\Bridge.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\DataAccess\bin\Debug\CrossCutting.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\DataAccess\obj\Debug\DataAccess.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\DataAccess\obj\Debug\DataAccess.vbprojResolveAssemblyReference.cache
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\DataAccess\obj\Debug\DataAccess.exe
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\DataAccess\bin\Debug\DataAccess.exe
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\DataAccess\bin\Debug\Bridge.exe
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\DataAccess\bin\Debug\CrossCutting.exe
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\DataAccess\bin\Debug\Bridge.pdb
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\DataAccess\bin\Debug\CrossCutting.pdb
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\DataAccess\obj\Debug\DataAccess.vbprojResolveAssemblyReference.cache
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\DataAccess\bin\Debug\DataAccess.exe.config
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\DataAccess\bin\Debug\DataAccess.exe
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\DataAccess\bin\Debug\Bridge.exe
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\DataAccess\bin\Debug\CrossCutting.exe
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\DataAccess\bin\Debug\Bridge.pdb
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\DataAccess\bin\Debug\CrossCutting.pdb
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\DataAccess\obj\Debug\DataAccess.exe
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\DataAccess\obj\Debug\DataAccess.pdb
+J:\Software Projects\PayrollApp\DataAccess\obj\Debug\DataAccess.vbprojResolveAssemblyReference.cache
+J:\Software Projects\PayrollApp\DataAccess\bin\Debug\DataAccess.exe.config
+J:\Software Projects\PayrollApp\DataAccess\bin\Debug\DataAccess.exe
+J:\Software Projects\PayrollApp\DataAccess\bin\Debug\DataAccess.pdb
+J:\Software Projects\PayrollApp\DataAccess\bin\Debug\Bridge.exe
+J:\Software Projects\PayrollApp\DataAccess\bin\Debug\CrossCutting.exe
+J:\Software Projects\PayrollApp\DataAccess\bin\Debug\MySql.Data.dll
+J:\Software Projects\PayrollApp\DataAccess\bin\Debug\Bridge.pdb
+J:\Software Projects\PayrollApp\DataAccess\bin\Debug\CrossCutting.pdb
+J:\Software Projects\PayrollApp\DataAccess\obj\Debug\DataAccess.exe
+J:\Software Projects\PayrollApp\DataAccess\obj\Debug\DataAccess.pdb

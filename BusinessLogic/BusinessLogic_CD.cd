@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="BusinessLogic.EmployeeManager" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="3.5" />
+    <NestedTypes>
+      <Enum Name="BusinessLogic.EmployeeManager.EmployeeInformationRegion" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>EmployeeManager.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEBAAAAAAACAoAgAAgaCYgAAAAAAAgACAwA=</HashCode>
+      <FileName>EmployeeManager.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessLogic.PayrollManager" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="3.25" />
+    <NestedTypes>
+      <Class Name="BusinessLogic.PayrollManager.WeeksComputer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PayrollManager.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>MAIBAAAAABCAgABgAgAAoAoAIEKAQgIAEAAAAAACAEA=</HashCode>
+      <FileName>PayrollManager.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessLogic.UserManager" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>BAAAACCAAAIAAABAAAAAYwgCEACCAgAAAAAAAAAGAAA=</HashCode>
+      <FileName>UserManager.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessLogic.ReportGenerator">
+    <Position X="5.5" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Enum Name="BusinessLogic.ReportGenerator.Reports" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ReportGenerator.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAACACAAAAACAAAAAAAAAAQAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReportGenerator.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessLogic.CodedDomainManager" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="4.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="BusinessLogic.CodedDomainManager.Tables" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CodedDomainManager.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEAQAEAAAAAAUAIAAAAIYgCCACCAgAAAACAIAAGAAA=</HashCode>
+      <FileName>CodedDomainManager.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessLogic.Logger">
+    <Position X="5.5" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Logger.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessLogic.LoginManager" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAgAAAAAAAAAAACAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>LoginManager.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessLogic.ProjectManager" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AACAAQAAAAAAAACAAAAAoQoAAAyCAgSAABAAAAQGAAA=</HashCode>
+      <FileName>ProjectManager.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="BusinessLogic.BusinessLogic_Mod">
+    <Position X="5.5" Y="4.75" Width="3.75" />
+    <NestedTypes>
+      <Enum Name="BusinessLogic.BusinessLogic_Mod.UserTypeCode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>BusinessLogic_Mod.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAAAEAACAAICAAAAAAAAIAAAAQAAAAQKBAEABhAAAAA=</HashCode>
+      <FileName>BusinessLogic_Mod.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

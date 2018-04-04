@@ -1,0 +1,43 @@
+ 
+ 
+6/10/2011 5:41:40 PM
+ > > > > Connection must be valid and open.
+ 
+ 
+6/10/2011 5:46:27 PM
+ > > > > Connection must be valid and open.
+ 
+ 
+6/10/2011 5:52:20 PM
+ > > > > Connection must be valid and open.
+ 
+ 
+6/10/2011 5:53:53 PM
+ > > > > Connection must be valid and open.
+ 
+ 
+6/10/2011 5:54:33 PM
+ > > > > Connection must be valid and open.
+ 
+ 
+6/10/2011 6:14:24 PM
+ > > > > Connection must be valid and open.
+ 
+ 
+6/10/2011 6:25:55 PM
+ > > > > Connection must be valid and open.
+ 
+ 
+6/10/2011 6:28:52 PM
+ > > > > Procedure or function '`INSERT INTO tblLog (code, message, stackTrace, user_ID, dateCreated VALUES(?code, ?message, ?stackTrace, ?user_ID, NOW())`' cannot be found in database '`payroll`'.
+ 
+ 
+6/10/2011 6:29:53 PM
+ > > > > You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'VALUES(5001, 'Third Login attempt 
+
+Username : A1
+Password : A1password', '',' at line 1
+ 
+ 
+6/10/2011 6:34:33 PM
+ > > > > Field 'ID' doesn't have a default value

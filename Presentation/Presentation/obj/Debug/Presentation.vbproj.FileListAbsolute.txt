@@ -1,0 +1,443 @@
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\obj\Debug\Presentation.Base.resources
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\obj\Debug\Presentation.BaseForm.resources
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\obj\Debug\Presentation.frmLogIn.resources
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\obj\Debug\Presentation.Main.resources
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\obj\Debug\Presentation.Resources.resources
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\obj\Debug\Presentation.vbproj.GenerateResource.Cache
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\bin\Debug\Presentation.exe.config
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\bin\Debug\Presentation.exe
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\bin\Debug\Presentation.pdb
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\bin\Debug\Presentation.xml
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\bin\Debug\BusinessLogic.exe
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\bin\Debug\CrossCutting.exe
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\bin\Debug\BusinessAndDataBridge.exe
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\bin\Debug\DataAccess.exe
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\bin\Debug\BusinessLogic.pdb
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\bin\Debug\BusinessAndDataBridge.pdb
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\bin\Debug\CrossCutting.pdb
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\bin\Debug\DataAccess.pdb
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\obj\Debug\Presentation.exe
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\obj\Debug\Presentation.xml
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\obj\Debug\Presentation.pdb
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\obj\Debug\Presentation.frmConfiguration.resources
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\obj\Debug\Presentation.SplashScreenMain.resources
+C:\Documents and Settings\yaj\My Documents\Visual Studio 2008\Projects\Presentation\Presentation\obj\Debug\Presentation.FormManager.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\Presentation.exe.config
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\Presentation.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\Presentation.pdb
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\Presentation.xml
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\BusinessAndDataBridge.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\BusinessLogic.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\CrossCutting.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\DataAccess.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\BusinessAndDataBridge.pdb
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\BusinessLogic.pdb
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\CrossCutting.pdb
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\DataAccess.pdb
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmTables.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.subForm.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmEmployee.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmHome.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmUser.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.Clipboard.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.Collection.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.PrimaryStructure.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.BaseForm.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.FormManager.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmConfiguration.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmLogIn.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.Resources.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.SplashScreenMain.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.CodedDomainUC.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.MenuUC.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.NavUC.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.QuickSearchUC.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.ShortCutsUC.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.vbproj.GenerateResource.Cache
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.xml
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.pdb
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmTester.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.EmpProjectUC.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.AllowanceAndBonusUC.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.OtherDeductionUC.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.StateOrientedBase_Form.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmPayroll.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.Emp_QuickSearchUC.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmChangePassword.resources
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmEmpChooser.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\bin\Debug\Presentation.exe.config
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.exe
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.xml
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.pdb
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\bin\Debug\Presentation.exe
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\bin\Debug\Presentation.pdb
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\bin\Debug\Presentation.xml
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\bin\Debug\BusinessAndDataBridge.exe
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\bin\Debug\BusinessLogic.exe
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\bin\Debug\CrossCutting.exe
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\bin\Debug\DataAccess.exe
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\bin\Debug\BusinessAndDataBridge.pdb
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\bin\Debug\BusinessLogic.pdb
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\bin\Debug\CrossCutting.pdb
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\bin\Debug\DataAccess.pdb
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmChangePassword.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmEmpChooser.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmErrorLog.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmCreatePayroll.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmReport.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmTables.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.subForm.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmEmployee.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmHome.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmUser.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.StateOrientedBase_Form.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.Clipboard.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.Collection.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.PrimaryStructure.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.BaseForm.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.FormManager.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmConfiguration.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmLogIn.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.Resources.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.SplashScreenMain.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmTester.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.AllowanceUC.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.BonusUC.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.CodedDomainUC.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.EmpProjectUC.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.Emp_QuickSearchUC.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.MenuUC.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.NavUC.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.OtherDeductionUC.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.QuickSearchUC.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.ShortCutsUC.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.WTaxUC.resources
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\XP\Desktop\PayrollSystem\Presentation\Presentation\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmChangePassword.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmCreatePayroll_Nav.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmDeductables.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmEmpChooser.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmErrorLog.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmCreatePayroll.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmLog.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmPayrollReport.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmPayrollRev.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmReport.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmStatus.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmTables.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.subForm.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmEmployee.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmHome.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmUser.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.StateOrientedBase_Form.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.Clipboard.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.Collection.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.PrimaryStructure.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmConfiguration.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmLogIn.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.Resources.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.SplashScreenMain.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmTester.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.AllowanceUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.BonusUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.CodedDomainUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.EmpProjectUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.Emp_QuickSearchUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.Header.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.MenuUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.NavUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.OtherDeductionUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.PhilHealthUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.QuickSearchUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.ShortCutsUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.SSS_UC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.StatusStripUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.WTaxUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\Presentation.exe.config
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\Presentation.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\Presentation.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\Presentation.xml
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\BusinessLogic.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\CrossCutting.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\DataAccess.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\BusinessLogic.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\CrossCutting.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\bin\Debug\DataAccess.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.xml
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmShell.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\Presentation\Presentation\obj\Debug\Presentation.frmDateRange.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmAuthorization.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmChangePassword.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmCreatePayroll_Nav.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmDeductables.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmEmpChooser.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmErrorLog.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmCreatePayroll.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmLog.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmPayrollReport.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmReport.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmShell.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmStatus.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmTables.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.subForm.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmEmployee.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmHome.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmUser.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.StateOrientedBase_Form.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Clipboard.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Collection.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.PrimaryStructure.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmConfiguration.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmLogIn.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Resources.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.SplashScreenMain.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmTester.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.AllowanceUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.BonusUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.CodedDomainUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.EmpProjectUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Emp_QuickSearchUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Header.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.MenuUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.NavUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.OtherDeductionUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.PhilHealthUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.QuickSearchUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.ShortCutsUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.SSS_UC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.StatusStripUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.WTaxUC.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.exe.config
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.xml
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\Bridge.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\BusinessLogic.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\CrossCutting.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\DataAccess.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\Bridge.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\BusinessLogic.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\CrossCutting.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\DataAccess.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.xml
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmReport_Period.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmPayroll_Period.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmPayroll_Reversal.resources
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmPayrollRev_old.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.exe
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.xml
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.vbprojResolveAssemblyReference.cache
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmPayroll_Period.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmAuthorization.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmChangePassword.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmCreatePayroll_Nav.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmPayroll_Reversal.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmReport_Period.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmDeductables.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmEmpChooser.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmErrorLog.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmCreatePayroll.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmLog.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmPayrollReport.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmPayrollRev_old.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmReport.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmShell.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmStatus.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmTables.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.subForm.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmEmployee.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmHome.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmUser.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.StateOrientedBase_Form.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Clipboard.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Collection.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.PrimaryStructure.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmConfiguration.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmLogIn.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Resources.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.SplashScreenMain.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmTester.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.AllowanceUC.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.BonusUC.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.CodedDomainUC.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.EmpProjectUC.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Emp_QuickSearchUC.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Header.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.MenuUC.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.NavUC.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.OtherDeductionUC.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.PhilHealthUC.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.QuickSearchUC.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.ShortCutsUC.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.SSS_UC.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.StatusStripUC.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.WTaxUC.resources
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.vbproj.GenerateResource.Cache
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.exe
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.xml
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\Bridge.exe
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\BusinessLogic.exe
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\CrossCutting.exe
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\DataAccess.exe
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\stdole.dll
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\Bridge.pdb
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\BusinessLogic.pdb
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\CrossCutting.pdb
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\Presentation\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.vbprojResolveAssemblyReference.cache
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmPayroll_Period.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmAuthorization.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmChangePassword.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmCreatePayroll_Nav.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmPayroll_Reversal.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmReport_Period.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmDeductables.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmEmpChooser.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmErrorLog.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmCreatePayroll.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmLog.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmPayrollReport.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmPayrollRev_old.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmReport.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmShell.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmStatus.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmTables.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.subForm.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmEmployee.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmHome.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmUser.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.StateOrientedBase_Form.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Clipboard.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Collection.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.PrimaryStructure.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmConfiguration.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmLogIn.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Resources.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.SplashScreenMain.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmTester.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.AllowanceUC.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.BonusUC.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.CodedDomainUC.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.EmpProjectUC.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Emp_QuickSearchUC.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Header.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.MenuUC.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.NavUC.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.OtherDeductionUC.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.PhilHealthUC.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.QuickSearchUC.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.ShortCutsUC.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.SSS_UC.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.StatusStripUC.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.WTaxUC.resources
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.vbproj.GenerateResource.Cache
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.exe
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.xml
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\bin\Debug\Bridge.exe
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\bin\Debug\BusinessLogic.exe
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\bin\Debug\CrossCutting.exe
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\bin\Debug\DataAccess.exe
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\bin\Debug\MySql.Data.dll
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\bin\Debug\Bridge.pdb
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\bin\Debug\BusinessLogic.pdb
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\bin\Debug\CrossCutting.pdb
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.exe
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.xml
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.pdb
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.exe.config
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.exe
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.xml
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.pdb
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.vbprojResolveAssemblyReference.cache
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmPayroll_Period.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmAuthorization.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmChangePassword.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmCreatePayroll_Nav.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmPayroll_Reversal.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmReport_Period.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmDeductables.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmEmpChooser.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmErrorLog.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmCreatePayroll.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmLog.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmPayrollReport.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmPayrollRev_old.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmReport.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmShell.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmStatus.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmTables.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.subForm.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmEmployee.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmHome.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmUser.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.StateOrientedBase_Form.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Clipboard.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Collection.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.PrimaryStructure.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmConfiguration.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmLogIn.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Resources.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.SplashScreenMain.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmTester.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.AllowanceUC.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.BonusUC.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.CodedDomainUC.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.EmpProjectUC.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Emp_QuickSearchUC.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.Header.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.MenuUC.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.NavUC.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.OtherDeductionUC.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.PhilHealthUC.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.QuickSearchUC.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.ShortCutsUC.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.SSS_UC.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.StatusStripUC.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.WTaxUC.resources
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.vbproj.GenerateResource.Cache
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.exe
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.pdb
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.xml
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\Bridge.exe
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\BusinessLogic.exe
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\CrossCutting.exe
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\DataAccess.exe
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\MySql.Data.dll
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\Bridge.pdb
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\BusinessLogic.pdb
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\CrossCutting.pdb
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\DataAccess.pdb

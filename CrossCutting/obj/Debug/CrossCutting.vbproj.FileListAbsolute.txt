@@ -1,0 +1,44 @@
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\CrossCutting\bin\Debug\CrossCutting.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\CrossCutting\bin\Debug\CrossCutting.pdb
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\CrossCutting\bin\Debug\BusinessAndDataBridge.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\CrossCutting\bin\Debug\BusinessAndDataBridge.pdb
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\CrossCutting\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\CrossCutting\obj\Debug\CrossCutting.exe
+C:\Documents and Settings\yaj\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\CrossCutting\obj\Debug\CrossCutting.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\CrossCutting\bin\Debug\CrossCutting.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\CrossCutting\bin\Debug\CrossCutting.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\CrossCutting\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\CrossCutting\obj\Debug\CrossCutting.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\CrossCutting\obj\Debug\CrossCutting.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\CrossCutting\bin\Debug\Bridge.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollSystem\CrossCutting\bin\Debug\Bridge.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\CrossCutting\bin\Debug\CrossCutting.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\CrossCutting\bin\Debug\CrossCutting.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\CrossCutting\bin\Debug\Bridge.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\CrossCutting\bin\Debug\Bridge.pdb
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\CrossCutting\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\CrossCutting\obj\Debug\CrossCutting.exe
+C:\Documents and Settings\xp\My Documents\Projects\Payroll System\3 Development\Software\PayrollApp\CrossCutting\obj\Debug\CrossCutting.pdb
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\CrossCutting\bin\Debug\CrossCutting.exe
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\CrossCutting\bin\Debug\CrossCutting.pdb
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\CrossCutting\bin\Debug\Bridge.exe
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\CrossCutting\bin\Debug\Bridge.pdb
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\CrossCutting\obj\Debug\CrossCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\CrossCutting\obj\Debug\CrossCutting.exe
+C:\Users\Law\Documents\Projects\Payroll System\3 Development\Software\PayrollApp\CrossCutting\obj\Debug\CrossCutting.pdb
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\CrossCutting\bin\Debug\CrossCutting.exe
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\CrossCutting\bin\Debug\CrossCutting.pdb
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\CrossCutting\bin\Debug\Bridge.exe
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\CrossCutting\bin\Debug\Bridge.pdb
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\CrossCutting\obj\Debug\CrossCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\CrossCutting\obj\Debug\CrossCutting.exe
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\CrossCutting\obj\Debug\CrossCutting.pdb
+C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\CrossCutting\bin\Debug\CrossCutting.exe.config
+J:\Software Projects\PayrollApp\CrossCutting\bin\Debug\CrossCutting.exe.config
+J:\Software Projects\PayrollApp\CrossCutting\bin\Debug\CrossCutting.exe
+J:\Software Projects\PayrollApp\CrossCutting\bin\Debug\CrossCutting.pdb
+J:\Software Projects\PayrollApp\CrossCutting\bin\Debug\Bridge.exe
+J:\Software Projects\PayrollApp\CrossCutting\bin\Debug\Bridge.pdb
+J:\Software Projects\PayrollApp\CrossCutting\obj\Debug\CrossCutting.vbprojResolveAssemblyReference.cache
+J:\Software Projects\PayrollApp\CrossCutting\obj\Debug\CrossCutting.exe
+J:\Software Projects\PayrollApp\CrossCutting\obj\Debug\CrossCutting.pdb
