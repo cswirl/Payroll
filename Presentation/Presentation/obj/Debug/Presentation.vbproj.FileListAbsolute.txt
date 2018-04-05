@@ -378,10 +378,16 @@ C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\Payro
 C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.exe
 C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.xml
 C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.pdb
-J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.exe.config
-J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.exe
-J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.xml
-J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.pdb
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.exe
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\BusinessLogic.exe
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\DataAccess.exe
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\MySql.Data.dll
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\Bridge.exe
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\CrossCutting.exe
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\Bridge.pdb
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\BusinessLogic.pdb
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\CrossCutting.pdb
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\DataAccess.pdb
 J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.vbprojResolveAssemblyReference.cache
 J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmPayroll_Period.resources
 J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.frmAuthorization.resources
@@ -429,15 +435,9 @@ J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation
 J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.StatusStripUC.resources
 J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.WTaxUC.resources
 J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.vbproj.GenerateResource.Cache
-J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.exe
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.exe
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.xml
+J:\Software Projects\PayrollApp\Presentation\Presentation\obj\Debug\Presentation.pdb
+J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.exe.config
 J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.pdb
 J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\Presentation.xml
-J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\Bridge.exe
-J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\BusinessLogic.exe
-J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\CrossCutting.exe
-J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\DataAccess.exe
-J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\MySql.Data.dll
-J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\Bridge.pdb
-J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\BusinessLogic.pdb
-J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\CrossCutting.pdb
-J:\Software Projects\PayrollApp\Presentation\Presentation\bin\Debug\DataAccess.pdb

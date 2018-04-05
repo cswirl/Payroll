@@ -191,13 +191,14 @@ Public Class MainForm
     Private Sub updateCurrentUserOnForms() Handles login.evCurrentUser_Changed
         'List Forms to update here. The form should have setMyCurrentUser() interface.
         Try
-            user.setMyCurrentUser()
-            employee.setMyCurrentUser()
-            tables.setMyCurrentUser()
-            deductables.setMyCurrentUser()
-            payrollRep.setMyCurrentUser()
+            If user IsNot Nothing Then user.setMyCurrentUser()
+            If employee IsNot Nothing Then employee.setMyCurrentUser()
+            If tables IsNot Nothing Then tables.setMyCurrentUser()
+            If deductables IsNot Nothing Then deductables.setMyCurrentUser()
+            If payrollRep IsNot Nothing Then payrollRep.setMyCurrentUser()
         Catch ex As Exception
             'Do Nothing
+
         End Try
 
     End Sub

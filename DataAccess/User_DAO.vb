@@ -9,7 +9,7 @@ Public Class User_DAO
     ''' Return the newly added User ID.
     Public Function add(ByVal user As Bridge.IUser) As UInteger
         Dim user_ID As UInteger
-        Dim hashed_pwd As String
+
         Try
             Dim cmd As New MySqlCommand("usp_User_add", conn)
             cmd.CommandType = CommandType.StoredProcedure

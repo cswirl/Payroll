@@ -31,11 +31,12 @@ Public Class LoginManager
             For a = 0 To dtUser.Rows.Count - 1
                 If DBNullToString(dtUser.Rows(a)("userName")) = username _
                     AndAlso DBNullToString(dtUser.Rows(a)("userPassword")) =
-                    um.GenerateSaltedPassword(CUInt(DBNullToNumeric(dtUser.Rows(index)("User_ID"))), password) Then
+                    um.GenerateSaltedPassword(CUInt(DBNullToNumeric(dtUser.Rows(a)("User_ID"))), password) Then
                     IsFound = True
                     index = a
                     Exit For
                 End If
+
             Next
 
             If IsFound Then

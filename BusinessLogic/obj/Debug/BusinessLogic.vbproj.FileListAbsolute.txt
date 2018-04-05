@@ -55,9 +55,6 @@ C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\Payro
 C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\BusinessLogic\bin\Debug\DataAccess.pdb
 C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\BusinessLogic\obj\Debug\BusinessLogic.exe
 C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\BusinessLogic\obj\Debug\BusinessLogic.pdb
-J:\Software Projects\PayrollApp\BusinessLogic\obj\Debug\BusinessLogic.vbprojResolveAssemblyReference.cache
-J:\Software Projects\PayrollApp\BusinessLogic\obj\Debug\BusinessLogic.exe
-J:\Software Projects\PayrollApp\BusinessLogic\obj\Debug\BusinessLogic.pdb
 J:\Software Projects\PayrollApp\BusinessLogic\bin\Debug\BusinessLogic.exe.config
 J:\Software Projects\PayrollApp\BusinessLogic\bin\Debug\BusinessLogic.exe
 J:\Software Projects\PayrollApp\BusinessLogic\bin\Debug\BusinessLogic.pdb
@@ -68,3 +65,6 @@ J:\Software Projects\PayrollApp\BusinessLogic\bin\Debug\MySql.Data.dll
 J:\Software Projects\PayrollApp\BusinessLogic\bin\Debug\Bridge.pdb
 J:\Software Projects\PayrollApp\BusinessLogic\bin\Debug\CrossCutting.pdb
 J:\Software Projects\PayrollApp\BusinessLogic\bin\Debug\DataAccess.pdb
+J:\Software Projects\PayrollApp\BusinessLogic\obj\Debug\BusinessLogic.vbprojResolveAssemblyReference.cache
+J:\Software Projects\PayrollApp\BusinessLogic\obj\Debug\BusinessLogic.exe
+J:\Software Projects\PayrollApp\BusinessLogic\obj\Debug\BusinessLogic.pdb

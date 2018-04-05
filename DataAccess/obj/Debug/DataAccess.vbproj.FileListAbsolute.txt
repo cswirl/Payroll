@@ -45,7 +45,6 @@ C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\Payro
 C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\DataAccess\bin\Debug\CrossCutting.pdb
 C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\DataAccess\obj\Debug\DataAccess.exe
 C:\Users\Law\Documents\Projects\Payroll\2017\3 Development\Software\04 Dev\PayrollApp\DataAccess\obj\Debug\DataAccess.pdb
-J:\Software Projects\PayrollApp\DataAccess\obj\Debug\DataAccess.vbprojResolveAssemblyReference.cache
 J:\Software Projects\PayrollApp\DataAccess\bin\Debug\DataAccess.exe.config
 J:\Software Projects\PayrollApp\DataAccess\bin\Debug\DataAccess.exe
 J:\Software Projects\PayrollApp\DataAccess\bin\Debug\DataAccess.pdb
@@ -54,5 +53,6 @@ J:\Software Projects\PayrollApp\DataAccess\bin\Debug\CrossCutting.exe
 J:\Software Projects\PayrollApp\DataAccess\bin\Debug\MySql.Data.dll
 J:\Software Projects\PayrollApp\DataAccess\bin\Debug\Bridge.pdb
 J:\Software Projects\PayrollApp\DataAccess\bin\Debug\CrossCutting.pdb
+J:\Software Projects\PayrollApp\DataAccess\obj\Debug\DataAccess.vbprojResolveAssemblyReference.cache
 J:\Software Projects\PayrollApp\DataAccess\obj\Debug\DataAccess.exe
 J:\Software Projects\PayrollApp\DataAccess\obj\Debug\DataAccess.pdb
