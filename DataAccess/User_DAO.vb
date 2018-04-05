@@ -279,12 +279,15 @@ Public Class User_DAO
     End Function
 
     'ZERO IS RETURNED FOR FAILED CHANGING PASSWORD
-    Public Function changePassword(ByVal user_ID As UInteger, ByVal newPassword As String) As Integer
+    Public Function changePassword(ByVal user_ID As UInteger, ByVal newPassword As String) As String
         Dim i As Integer
+        Dim hashed_pwd As String
         Try
             Dim cmd As New MySqlCommand("usp_User_changePassword", conn)
             cmd.CommandType = CommandType.StoredProcedure
             'PARAMs
+            Dim out_hashed_pwd As MySqlParameter = cmd.Parameters.Add("out_hashed_password", MySqlDbType.VarChar)
+            out_hashed_pwd.Direction = ParameterDirection.Output
             Dim userid As MySqlParameter = cmd.Parameters.Add("in_user_ID", MySqlDbType.UInt32)
             userid.Value = user_ID
             Dim password As MySqlParameter = cmd.Parameters.Add("in_userPassword", MySqlDbType.VarChar)
@@ -295,6 +298,7 @@ Public Class User_DAO
             openConnection()
             i = cmd.ExecuteNonQuery()
 
+            hashed_pwd = out_hashed_pwd.Value
         Catch myex As MySqlException
             ExceptionLog_DAO.log(myex, myex.Number)
             Dim daex As New DataAccessException(MySQLErrorNumToString _
@@ -311,7 +315,7 @@ Public Class User_DAO
 
         End Try
 
-        Return i
+        Return hashed_pwd
     End Function
 
     Public Function delete(ByVal user_ID As UInteger) As Integer

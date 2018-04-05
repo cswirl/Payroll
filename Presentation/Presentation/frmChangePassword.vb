@@ -5,6 +5,7 @@ Public Class frmChangePassword
 
     Private _currentPassword As String
     Private _currentUser_ID As UInteger
+    Private _hashedPassword As String
 
     Private _currentRow As DataRowView
 
@@ -25,20 +26,21 @@ Public Class frmChangePassword
     End Sub
 
     Private Sub btnSave_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnSave.Click
-        If txtCurrentPass.Text.Length < 1 Then
-            writeMessage("Please enter current password.")
-            Return
-        End If
+
         If txtNewPass.Text.Length < 1 Then
             writeMessage("Please enter new password.")
             Return
         End If
 
-        If isCurrentPasswordCorrect() AndAlso isPasswordConfirmed() Then
+
+
+        If isPasswordConfirmed() Then
             Dim um As New BusinessLogic.UserManager
+
             Dim i As Integer = 0
             Try
-                i = um.changePassword(_currentUser_ID, txtNewPass.Text)
+
+                _hashedPassword = um.changePassword(_currentUser_ID, txtNewPass.Text)
                 passwordChangeSuccess()
                 RaiseEvent evStatusMessage("Password Changed successfully.")
             Catch myappex As MyApplicationException
@@ -55,7 +57,7 @@ Public Class frmChangePassword
 
     Private Sub passwordChangeSuccess()
         _currentRow.BeginEdit()
-        _currentRow("userPassword") = txtNewPass.Text
+        _currentRow("userPassword") = _hashedPassword
         _currentRow.EndEdit()
         Me.Close()
     End Sub
@@ -63,12 +65,6 @@ Public Class frmChangePassword
     Private Sub btnCancel_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnExit.Click
         Me.Close()
     End Sub
-
-    Private Function isCurrentPasswordCorrect() As Boolean
-        If txtCurrentPass.Text.Equals(_currentPassword) Then Return True
-        writeMessage("Password did not match.")
-        Return False
-    End Function
 
     Private Function isPasswordConfirmed() As Boolean
         If txtNewPass.Text.Equals(txtConfirmPass.Text) Then Return True
@@ -81,7 +77,7 @@ Public Class frmChangePassword
     End Sub
 
     Private Sub txtBoxes_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) _
-    Handles txtConfirmPass.KeyDown, txtConfirmPass.KeyDown, txtCurrentPass.KeyDown
+    Handles txtConfirmPass.KeyDown, txtConfirmPass.KeyDown
         If e.KeyCode = Keys.Enter Then
             btnSave.PerformClick()
         End If

@@ -11,8 +11,8 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyTitle("Payroll System")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("Desktop Payroll")> 
-<Assembly: AssemblyCopyright("Copyright ©  2011")> 
+<Assembly: AssemblyProduct("Desktop Payroll")>
+<Assembly: AssemblyCopyright("Copyright ©  2015")>
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>

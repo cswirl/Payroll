@@ -202,18 +202,19 @@ Public Class UserManager
         Return i
     End Function
 
-    Public Function changePassword(ByVal user_ID As UInteger, ByVal newPassword As String) As Integer
-        Dim i As Integer = 0
+    Public Function changePassword(ByVal user_ID As UInteger, ByVal newPassword As String) As String
+        Dim hashed_pwd As String
         Try
+            If Not IsAuthorized(user_ID) Then Throw New BusinessException("You are not Authorized to change password on this account.")
             validatePassword(newPassword)
-            i = userDAO.changePassword(user_ID, newPassword)
+            hashed_pwd = userDAO.changePassword(user_ID, newPassword)
         Catch bex As BusinessException
             Throw bex
         Catch daex As DataAccessException
             Throw daex
         End Try
 
-        Return i
+        Return hashed_pwd
     End Function
 
     Public Function delete(ByVal user_ID As UInteger) As Integer
@@ -242,7 +243,12 @@ Public Class UserManager
         Return userDAO.GenerateSaltedPassword(user_ID, password)
 
 
+    End Function
 
+    Public Function IsAuthorized(user_id As UInteger) As Boolean
+        If isAdmin(getCurrentUser) Or user_id = getCurrentUser_UserID() Then Return True
+
+        Return False
     End Function
 
 #Region "Manager Base"

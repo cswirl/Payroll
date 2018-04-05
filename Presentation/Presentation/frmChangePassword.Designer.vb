@@ -26,8 +26,6 @@ Partial Class frmChangePassword
         Me.txtConfirmPass = New System.Windows.Forms.MaskedTextBox()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.txtNewPass = New System.Windows.Forms.MaskedTextBox()
-        Me.Label1 = New System.Windows.Forms.Label()
-        Me.txtCurrentPass = New System.Windows.Forms.MaskedTextBox()
         Me.Panel2 = New System.Windows.Forms.Panel()
         Me.StatusStrip1 = New System.Windows.Forms.StatusStrip()
         Me.tsslblMessage = New System.Windows.Forms.ToolStripStatusLabel()
@@ -78,25 +76,6 @@ Partial Class frmChangePassword
         Me.txtNewPass.TabIndex = 1
         Me.txtNewPass.UseSystemPasswordChar = True
         '
-        'Label1
-        '
-        Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(20, 74)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(119, 16)
-        Me.Label1.TabIndex = 2
-        Me.Label1.Text = "Current Password :"
-        '
-        'txtCurrentPass
-        '
-        Me.txtCurrentPass.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtCurrentPass.Location = New System.Drawing.Point(144, 71)
-        Me.txtCurrentPass.Name = "txtCurrentPass"
-        Me.txtCurrentPass.Size = New System.Drawing.Size(210, 23)
-        Me.txtCurrentPass.TabIndex = 0
-        Me.txtCurrentPass.UseSystemPasswordChar = True
-        '
         'Panel2
         '
         Me.Panel2.BackColor = System.Drawing.SystemColors.Control
@@ -108,9 +87,7 @@ Partial Class frmChangePassword
         Me.Panel2.Controls.Add(Me.txtConfirmPass)
         Me.Panel2.Controls.Add(Me.btnSave)
         Me.Panel2.Controls.Add(Me.Label2)
-        Me.Panel2.Controls.Add(Me.Label1)
         Me.Panel2.Controls.Add(Me.txtNewPass)
-        Me.Panel2.Controls.Add(Me.txtCurrentPass)
         Me.Panel2.Location = New System.Drawing.Point(8, 8)
         Me.Panel2.Name = "Panel2"
         Me.Panel2.Size = New System.Drawing.Size(383, 244)
@@ -199,8 +176,6 @@ Partial Class frmChangePassword
         Me.ResumeLayout(False)
 
     End Sub
-    Friend WithEvents Label1 As System.Windows.Forms.Label
-    Friend WithEvents txtCurrentPass As System.Windows.Forms.MaskedTextBox
     Friend WithEvents Label3 As System.Windows.Forms.Label
     Friend WithEvents txtConfirmPass As System.Windows.Forms.MaskedTextBox
     Friend WithEvents Label2 As System.Windows.Forms.Label
